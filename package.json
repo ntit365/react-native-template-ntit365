@@ -1,6 +1,6 @@
 {
-  "name": "@ntit365/react-native-template-ntit365",
-  "version": "0.0.1",
+  "name": "react-native-template-ntit365",
+  "version": "0.0.2",
   "description": "Clean and minimalist React Native template for a quick start by ntit365",
   "scripts": {
     "test": "exit 0"
