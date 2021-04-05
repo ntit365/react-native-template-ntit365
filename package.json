@@ -1,0 +1,25 @@
+{
+  "name": "@ntit365/react-native-template-ntit365",
+  "version": "0.0.1",
+  "description": "Clean and minimalist React Native template for a quick start by ntit365",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "files": [
+    "template",
+    "template.config.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ntit365/react-native-template-ntit365.git"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "Nguyen Truong <truongnv@sscs.vn>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ntit365/react-native-template-ntit365/issues"
+  },
+  "homepage": "https://github.com/ntit365/react-native-template-ntit365#readme"
+}
